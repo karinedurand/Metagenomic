@@ -6,7 +6,7 @@
 
 # Run metaSPAdes with specified options
 metaspades.py \
-    -12 Shotgun_Mock2.Trim_paired.gz \
+    -s Shotgun_Mock2.Trim_paired.gz \
+    -o Shotgun_Mock2 \
     -t 16 \   
     -m 100  \
-    --only-assembler
