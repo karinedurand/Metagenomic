@@ -15,15 +15,15 @@ These analyses were performed within the KBase platform using its integrated too
 
 2. **Taxonomic Assignment of MAGs**
 
-Skani.sh
+- Skani.sh
 
 
 3. **Taxonomic Profiling of Reads with k-mer methods**
 
 Three methods were used for taxonomic classification of metagenomic reads:
 
-Kraken2.sh
+- Kraken2.sh
 
-Bracken.sh
+- Bracken.sh
 
-Sourmash.sh
+- Sourmash.sh
