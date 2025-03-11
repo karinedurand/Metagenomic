@@ -4,13 +4,14 @@ This document describes the steps performed for metagenomic assembly, binning, g
 
 1. **Assembly and Binning**
 
-The sequencing reads were assembled using metaSPAdes v3.15.3.
-
-The resulting scaffolds were clustered into genome bins using MetaBAT2 v1.7.
-
-The completeness and contamination of these MAGs were evaluated using CheckM v1.0.18.
-
+- The sequencing reads were assembled using metaSPAdes v3.15.3.
+  
+- The resulting scaffolds were clustered into genome bins using MetaBAT2 v1.7.
+  
+- The completeness and contamination of these MAGs were evaluated using CheckM v1.0.18.
+  
 These analyses were performed within the KBase platform using its integrated tools.
+
 
 2. **Taxonomic Assignment of MAGs**
 
