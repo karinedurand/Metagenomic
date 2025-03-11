@@ -17,7 +17,7 @@ These analyses were performed within the KBase platform using its integrated too
 Skani.sh
 
 
-3. **Taxonomic Profiling of Reads**
+3. **Taxonomic Profiling of Reads with k-mer methods**
 
 Three methods were used for taxonomic classification of metagenomic reads:
 
